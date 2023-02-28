@@ -14,7 +14,7 @@ http://itcareer.pythonanywhere.com/
  11. Обновить страницу
  12. Перевести в ландшафтные режим.
  13. Выключить Device Mode
- ## [Ссылка на видео](https://drive.google.com/file/d/1sSLj2t6C3EeUQITmuMcZ7HHnvIaFv5rR/view?usp=sharing)
+ ## [Ссылка на видео/1](https://drive.google.com/file/d/1sSLj2t6C3EeUQITmuMcZ7HHnvIaFv5rR/view?usp=sharing)
  15. Открыть панель Console.
  16. Найти 2 сообщения Error в логах
  17. Сохранить эти 2 сообщения лога как файл на компьютер.
@@ -23,6 +23,7 @@ http://itcareer.pythonanywhere.com/
  20. Открыть вкладку Sources.
  21. Открыть файл Index
  22. Открыть вкладку Network
+  ## [Ссылка на видео/2](https://drive.google.com/file/d/1amEjBqcKBNSVuv6C1UW0ZlH3YX12U68j/view?usp=sharing)
  23. В урле отправить отправить http://162.55.220.72:5005/object_info_3?age=32&salary=1000&name=name
  24. Найти лог request/responce  
  25. Открыть вкладку Headers
