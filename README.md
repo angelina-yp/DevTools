@@ -1,5 +1,6 @@
 # DevTools
 ## Тестовое задание
+
 http://itcareer.pythonanywhere.com/
  1. Открыть Chrome DevTools
  2. Зайти в панель Elements.
@@ -23,6 +24,8 @@ http://itcareer.pythonanywhere.com/
  20. Открыть вкладку Sources.
  21. Открыть файл Index
  22. Открыть вкладку Network
+ 
+ https://habr.com/ru/post/549054/
   ## [Ссылка на видео/2](https://drive.google.com/file/d/1amEjBqcKBNSVuv6C1UW0ZlH3YX12U68j/view?usp=sharing)
  23. В урле отправить отправить http://162.55.220.72:5005/object_info_3?age=32&salary=1000&name=name
  24. Найти лог request/responce  
@@ -35,6 +38,7 @@ http://itcareer.pythonanywhere.com/
  31. Развернуть все Storage в левом столбце.
  32. Зайти в Cache Storage и Application Cache
  33. Там везде будет пусто.
+ 
  ## [Ссылка на видео/3]( )
  35. Открыть любой сайт который хотите. (Введите урл сайта в адресную строку и нажмите Enter)
  36. Откройте вкладку LightHouse
