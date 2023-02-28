@@ -14,7 +14,7 @@ http://itcareer.pythonanywhere.com/
  11. Обновить страницу
  12. Перевести в ландшафтные режим.
  13. Выключить Device Mode
- ## [Видео](https://drive.google.com/file/d/1sSLj2t6C3EeUQITmuMcZ7HHnvIaFv5rR/view?usp=sharing)
+ ## [Ссылка на видео](https://drive.google.com/file/d/1sSLj2t6C3EeUQITmuMcZ7HHnvIaFv5rR/view?usp=sharing)
  15. Открыть панель Console.
  16. Найти 2 сообщения Error в логах
  17. Сохранить эти 2 сообщения лога как файл на компьютер.
