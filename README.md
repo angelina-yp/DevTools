@@ -16,8 +16,8 @@ http://itcareer.pythonanywhere.com/
  12. Перевести в ландшафтные режим.
  13. Выключить Device Mode
  ## [Ссылка на видео-1](https://drive.google.com/file/d/1sSLj2t6C3EeUQITmuMcZ7HHnvIaFv5rR/view?usp=sharing)
-  https://habr.com/ru/post/549054/
- 15. Открыть панель Console.
+  
+ 15. Открыть панель Console. (https://habr.com/ru/post/549054/)
  16. Найти 2 сообщения Error в логах
  17. Сохранить эти 2 сообщения лога как файл на компьютер.
  18. Найти 1 сообщение verbose
@@ -25,7 +25,7 @@ http://itcareer.pythonanywhere.com/
  20. Открыть вкладку Sources.
  21. Открыть файл Index
  22. Открыть вкладку Network
- 
+
   ## [Ссылка на видео-2](https://drive.google.com/file/d/1amEjBqcKBNSVuv6C1UW0ZlH3YX12U68j/view?usp=sharing)
  23. В урле отправить отправить http://162.55.220.72:5005/object_info_3?age=32&salary=1000&name=name
  24. Найти лог request/responce  
@@ -45,6 +45,7 @@ http://itcareer.pythonanywhere.com/
  37. Нажмите Generate report
  38. Установить в браузер бесплатный AdBlocker
  39. Установить в браузер Json Viewer
+ 
  ## [Ссылка на видео-4]( )
  41. Зайти на сайт https://ksendzov.com (https://ksendzov.com/)
  42. Сделать и сохранить скриншот видимой части страницы сайта.
@@ -53,6 +54,7 @@ http://itcareer.pythonanywhere.com/
  45. Изменить локацию GPS второй раз. Продемонстрировать на сайте Гугл карт.
  46. Найти интерфейс для изменения User-Agent.
  47. Подставить другой User-Agent. 
+ 
  ## [Ссылка на видео-5]( )
  48. Отправить запрос на http://162.55.220.72:5005/object_info_3?age=32&salary=1000&name=name
  49. Проверить изменился ли ваш нативный User-Agent на новый, подставленный.
