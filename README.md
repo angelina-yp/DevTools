@@ -2,7 +2,7 @@
 ## Тестовое задание
 
 http://itcareer.pythonanywhere.com/
- 1. Открыть Chrome DevTools
+ 1. Открыть Chrome DevTools.
  2. Зайти в панель Elements.
  3. Найти инспектором кнопку Submit и выровнять слово Submit по центру
  4. Включить режим мобильного деввайса (Device Mode)
@@ -11,8 +11,8 @@ http://itcareer.pythonanywhere.com/
  7. Продемонстрировать работу дизайна Responsive
  8. Выставить Dimensions: Adaptive (select device).
  9. Создать свой девайс.
- 10. Выставить Throttling low-end mobile
- 11. Обновить страницу
+ 10. Выставить Throttling low-end mobile.
+ 11. Обновить страницу.
  12. Перевести в ландшафтные режим.
  13. Выключить Device Mode
  ## [Ссылка на видео-1](https://drive.google.com/file/d/1sSLj2t6C3EeUQITmuMcZ7HHnvIaFv5rR/view?usp=sharing)
