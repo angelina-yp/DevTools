@@ -46,7 +46,7 @@ http://itcareer.pythonanywhere.com/
  38. Установить в браузер бесплатный AdBlocker
  39. Установить в браузер Json Viewer
  
- ## [Ссылка на видео-4]( )
+ ## [Ссылка на видео-4](https://drive.google.com/file/d/1zbtsuGUq-XzC3wjJ5cVUEiB0Ezhco0Ll/view?usp=share_link)
  41. Зайти на сайт https://ksendzov.com (https://ksendzov.com/)
  42. Сделать и сохранить скриншот видимой части страницы сайта.
  43. Сделать и сохранить скриншот всего сайта.
