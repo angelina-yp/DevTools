@@ -39,7 +39,7 @@ http://itcareer.pythonanywhere.com/
  32. Зайти в Cache Storage и Application Cache
  33. Там везде будет пусто.
  
- ## [Ссылка на видео-3](https://drive.google.com/file/d/1z8tYF9_ek_7jQjDx3O1TWEN9-LQkG2nf/view?usp=share_link)
+ ## [Ссылка на видео-3](https://drive.google.com/file/d/1bNRTNXFjZOA-5taUvB59we0sAQaGU8aN/view?usp=share_link)
  35. Открыть любой сайт который хотите. (Введите урл сайта в адресную строку и нажмите Enter)
  36. Откройте вкладку LightHouse
  37. Нажмите Generate report
